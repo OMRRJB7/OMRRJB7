@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html>
+
+	<h1 >
+		HTML test #1
+	</h1>
+
+	<h2 >
+		Sample Text
+	</h2>
+	
+	<p>
+		so I have no idea what to type <br>
+		 here since this is just a sample
+	</p>
+	
+	<br>
+	<br>
+	
+	<img 
+		src="https://www.w3.org/html/logo/
+		downloads/HTML5_1Color_Black.png"
+	 	width="130" height="130">
+	 </img>
+	
+	<br>
+	<br>
+	
+	<button onclick="f1()" > 
+		<strong>USELESS BUTTON</strong>
+	</button>
+
+	<script>
+	function f1() {
+	alert("see?, its useless!")}
+	</script>
+	
+	<br>
+	<br>
+	
+	<a href="https://html.com/" >
+		Sample Link
+	</a>
+
+</html>
